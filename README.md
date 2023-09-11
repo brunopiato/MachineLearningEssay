@@ -7,7 +7,7 @@ Date: 11 September 2023
 
 ## About
 
-An essay is the best way to compare different algorithms and hyperparameter fine-tuning in terms of their performance metrics. Here I tested five classification algorithms, eleven regression models and two clustering algorithms.
+A systematic essay is the best way to compare different algorithms and hyperparameter fine-tuning in terms of their performance metrics. Here I tested five classification algorithms, eleven regression models and two clustering algorithms.
 
 This essay is the final project of the Machine Learning Fundamentals discipline taken from July to September in Comunidade Data Science. The discipline was an introduction to the main concepts and algorithms used in machine learning and data science projects.
 
