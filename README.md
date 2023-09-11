@@ -13,8 +13,7 @@ This essay is the final project of the Machine Learning Fundamentals discipline 
 
 Each one of the algorithms of the same kind was trained using the same dataset so the observed differences are only due to algorithm's properties. The best results for each algorithm hyperparameter fine-tuning is shown in the tables bellow so one can compare them side-by-side in terms of the main performance metrics for that type of algorithms.
 
-
-
+As the final product of this project I wrote this report and I also developed and published a WebApp using Streamlit so the user can better visualizer the results found here. It can bem accessed in https://machinelearningevaluator.streamlit.app/.
 
 
 # Classification Algorithms Results
