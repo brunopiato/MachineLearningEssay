@@ -5,9 +5,9 @@ Author: Bruno Piato
 
 Date: 11 September 2023
 
-## About
+# About
 
-A systematic essay is the best way to compare different algorithms and hyperparameter fine-tuning in terms of their performance metrics, learning how to prevent under and overfitting. Here I tested five classification algorithms, eleven regression models and two clustering algorithms.
+A systematic essay is the best way to compare different algorithms and hyperparameter fine-tuning in terms of their performance metrics, learning how to prevent under and overfitting. Here I tested four classification algorithms, eleven regression models and two clustering algorithms.
 
 This essay is the final project of the Machine Learning Fundamentals discipline taken from July to September in Comunidade Data Science. The discipline was an introduction to the main concepts and algorithms used in machine learning and data science projects.
 
@@ -16,9 +16,18 @@ Each one of the algorithms of the same kind was trained using the same dataset s
 As the final product of this project I wrote this report and I also developed and published a WebApp using Streamlit so the user can better visualizer the results found here. It can bem accessed in https://machinelearningevaluator.streamlit.app/.
 
 
+# Algorithms used in the essay
+
+**Classification algorithms**: K Nearest Neighbors (KNN), Decision Tree Classifier, Random Forest Classifier, Logistic Regression Classifier
+
+**Regression algorithms**: Linear Regression (regular and regularized - L1, L2 and L1&L2), Polinomial Regression (regular and regularized - L1, L2 and L1&L2), Decision Tree Regressor, Random Forest Regressor and RANSAC.
+
+**Clustering algorithms**: K-Means and Affinity Propagation
+
+
 # Classification Algorithms Results
 
-For the classification kind of algorithms I implemented K Nearest Neighbors, Decision Tree Classifier, Random Forest Classifier and Logistic Regression classifier. These are not necessariyl the recently most used algorithms for classification, but they are the fundamentals from where one can study and understand classification problem solving and predicting.
+For the classification kind of algorithms I implemented K Nearest Neighbors, Decision Tree Classifier, Random Forest Classifier and Logistic Regression classifier. These are some of the basic algorithms that build the foundations from where one can study and understand classification problem solving and predicting.
 
 ## Classification Training Results
 | Metric    |   KNN |   Decision Tree |   Random Forest |   Logistic Regression |
@@ -48,7 +57,8 @@ For the classification kind of algorithms I implemented K Nearest Neighbors, Dec
 
 ---
 # Regression Algorithms Results
-For the regression kind of algorithms I implemented Linear Models (Lasso, Ridge and ElasticNet), Decision Tree Regressor, Random Forest Regressor, Polinomial Regression (Lasso, Ridge and ElasticNet) and RANSAC. These are not necessarily the recently most used algorithms for regression, but they are the fundamentals from where one can study and understand regression problem solving and predicting.
+For the regression kind of algorithms I implemented Linear Models (Lasso, Ridge and ElasticNet), Decision Tree Regressor, Random Forest Regressor, Polinomial Regression (Lasso, Ridge and ElasticNet) and RANSAC. These are some of the basic algorithms that build the foundations from where one can study and understand regression problem solving and predicting.
+
 
 ### Training dataset
 |         Model                    |     R2 |      MSE |   RMSE |    MAE |   MAPE |
@@ -98,7 +108,7 @@ For the regression kind of algorithms I implemented Linear Models (Lasso, Ridge 
 ---
 # Clustering Algorithms Results
 
-For the clusterization kind of algorithms I implemented K-Means and Affinity Propagation. These are not necessarily the recently most used algorithms for clustering, but they are the fundamentals from where one can study and understand clusterization problem solving and pattern recognizing.
+For the clusterization kind of algorithms I implemented K-Means and Affinity Propagation. These are some of the basic algorithms that build the foundations from where one can study and understand clustering problem solving and pattern recognizing.
 
 ## Clustering Results
 
