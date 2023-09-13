@@ -39,9 +39,10 @@ As the final product of this project I wrote this report and I also developed an
 
 # Tools used
 - Pythons 3.11.5
-- Scikit-learn
-- Streamlit
-- YellowBrick
+- pandas 2.0.3
+- Scikit-learn 1.2.2
+- Streamlit 1.26.0
+- YellowBrick 1.5
 
 # Classification Algorithms Results
 
