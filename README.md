@@ -18,12 +18,30 @@ As the final product of this project I wrote this report and I also developed an
 
 # Algorithms used in the essay
 
-**Classification algorithms**: K Nearest Neighbors (KNN), Decision Tree Classifier, Random Forest Classifier, Logistic Regression Classifier
+## **Classification algorithms**
 
-**Regression algorithms**: Linear Regression (regular and regularized - L1, L2 and L1&L2), Polinomial Regression (regular and regularized - L1, L2 and L1&L2), Decision Tree Regressor, Random Forest Regressor and RANSAC.
+- **Algorithms:** K Nearest Neighbors (KNN), Decision Tree Classifier, Random Forest Classifier, Logistic Regression Classifier
 
-**Clustering algorithms**: K-Means and Affinity Propagation
+- **Performance Metrics:** Accuracy, Precision, Recall and F1-Score
 
+## **Regression algorithms**
+
+- **Algorithms:** Linear Regression (regular and regularized - L1, L2 and L1&L2), Polinomial Regression (regular and regularized - L1, L2 and L1&L2), Decision Tree Regressor, Random Forest Regressor and RANSAC.
+
+- **Performance Metrics:** MSE, RAMSE, MAE and MAPE
+
+## **Clustering algorithms**
+
+- **Algorithms:** K-Means and Affinity Propagation
+
+- **Performance Metrics:** Silhouette Score
+
+
+# Tools used
+- Pythons 3.11.5
+- Scikit-learn
+- Streamlit
+- YellowBrick
 
 # Classification Algorithms Results
 
